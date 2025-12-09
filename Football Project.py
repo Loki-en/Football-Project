@@ -4,6 +4,7 @@
 Created on Tue Dec  9 21:17:38 2025
 
 @author: wasif
+this file reads excel files and exports them to excel
 """
 import os
 import pandas as pd
